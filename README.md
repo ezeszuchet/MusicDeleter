@@ -1,2 +1,2 @@
 # MusicDeleter
-Bot de discord que borra comandos del bot de musica
+Discord bot that deletes music commands in the chat
